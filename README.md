@@ -40,7 +40,7 @@
 </ul>
 
 <h2>Validação</h2>
-Validação dos campos do formulário via back-end para verificar se os campos estão vazios, caso houvesse inputs vazios as classes do formulário seriam trocados e um alert seria apresentado com uma mensagem de erro.
+Validação dos campos do formulário via PHP para verificar se os campos estão vazios, caso houvesse inputs vazios as classes do formulário seriam trocados e um alert personalizado do bootstrap seria apresentado com uma mensagem de erro.
 <h3>Nome</h3>
 <p> Para nome foi usado somente validação de tamanho maximo e verificar se o campo está vazio.</p>
 
@@ -50,6 +50,8 @@ Validação dos campos do formulário via back-end para verificar se os campos e
 <h3>Mensagem</h3>
 <p> Para mensagem foi usado somente uma validação para verificar se o campo está vazio.</p>
 
+<h3>Responsividade</h3>
+<p>O formulário é totalmente responsivo e adaptável para qualquer dispositivo.</p>
 
   
   
