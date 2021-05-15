@@ -40,6 +40,7 @@
 </ul>
 
 <h2>Validação</h2>
+Validação dos campos do formulário via back-end para verificar se os campos estão vazios, caso houvesse inputs vazios as classes do formulário seriam trocados e um alert seria apresentado com uma mensagem de erro.
 <h3>Nome</h3>
 <p> Para nome foi usado somente validação de tamanho maximo e verificar se o campo está vazio.</p>
 
