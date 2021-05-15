@@ -39,6 +39,16 @@
   <li> PHPMailer</li>
 </ul>
 
+<h2>Validação</h2>
+<h3>Nome</h3>
+<p> Para nome foi usado somente validação de tamanho maximo e verificar se o campo está vazio.</p>
+
+<h3>E-mail</h3>
+<p> Para E-mail foi utilizado presença do "@" e a presença de um ponto após o "@", verificar se o campo está vazio e validação de tamanho máximo.</p>
+
+<h3>Mensagem</h3>
+<p> Para mensagem foi usado somente uma validação para verificar se o campo está vazio.</p>
+
 
   
   
