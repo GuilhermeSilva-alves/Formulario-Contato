@@ -25,5 +25,21 @@
   <li>Responsividade</li>
 </ul>
 
+<h2>Tecnologias Utilizadas</h2>
+<br>
+<h3>Front-end</h3>
+<ul>
+  <li> HTML </li>
+  <li> CSS </li>
+  <li> BOOTSTRAP</li>
+ </ul>
+<h3> Back-end</h3>
+<ul>
+  <li> PHP </li>
+  <li> PHPMailer</li>
+</ul>
+
+
+  
   
                                                                                                                                 
