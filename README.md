@@ -51,7 +51,7 @@ Validação dos campos do formulário via PHP para verificar se os campos estão
 <p> Para mensagem foi usado somente uma validação para verificar se o campo está vazio.</p>
 
 <h3>Responsividade</h3>
-<p>O formulário é totalmente responsivo e adaptável para qualquer dispositivo.</p>
+<p>Para construir o layout responsivo foi usado CSS puro, sendo assim o formulário é totalmente adaptável para qualquer dispositivo.</p>
 
   
   
