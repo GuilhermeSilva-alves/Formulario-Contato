@@ -8,7 +8,7 @@
 </div>
 <br>
 <div align="center">
-<img src="https://github.com/GuilhermeSilva-alves/Formulario-Contato/blob/main/formulario-error.JPG" width="1000">
+<img src="https://github.com/GuilhermeSilva-alves/Formulario-Contato/blob/main/formulario-error.png" width="1000">
   
 </div>
 <br>
